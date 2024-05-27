@@ -31,9 +31,3 @@ I'm gaining insights into what dataset can be viewed as classification or regres
 
 Acknowledgements
 Special thanks to kaggle for providing the data used in this analysis.
-
-Feel free to reach out for any questions or feedback. Happy coding!
-
-Author: Shreyas Sugandhi
-Email: shreyashsugandhi@gmail.com
-Linkedin: https://www.linkedin.com/in/shreyassugandhi/
